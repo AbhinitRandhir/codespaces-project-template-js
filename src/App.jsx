@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "Abhinit Kumar",
   medium: "",
   twitter: "",
-  youTube: "abhi_boy9430",
+  youTube: "@abhi__boy9430",
 };
 
 const primaryColor = "#4E567E";
